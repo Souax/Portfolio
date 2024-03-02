@@ -1,24 +1,42 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 新 Bookers！
 
-Things you may want to cover:
+## サイト概要
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+技術書を購入したい時にどのようなものがあるのか検索や実際に販売しているサイトに飛ぶことができるデータベースサイト
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+私は初めてプログラミングに触れた際や、新しい言語に触れた時に必ず技術書を購入していました。  
+その際にどの技術書を買えばいいか迷ったことが多々ありました。  
+そこで技術書データベースサイトがあれば、どの技術書を買えばいいか迷った時に適切な技術書を買うことができ、便利になると考えました。
 
-* Database initialization
+### ターゲットユーザ
 
-* How to run the test suite
+- プログラミング初学者の方
+- 新しい言語や技術に触れたくてどの技術書を買えばいいかわからない方
+- 自分が読んだ技術書の感想を他の人に伝えたい方
 
-* Services (job queues, cache servers, search engines, etc.)
+### 主な利用シーン
 
-* Deployment instructions
+- 買いたい言語や技術の技術書の検索をしたい時
+- どのような技術書があるかし検索したい時
+- その技術書は自分の身になるのか知りたい時
+- 購入した本のレビューや感想を投稿する時
 
-* ...
+## 設計書
+
+後ほど作成予定
+
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,Ruby,JavaScript,TypeScript,SQL
+- フレームワーク：Ruby on Rails, Next.js
+- JS ライブラリ：React
+- IDE：Visual Studio Code
+
+## 使用素材
